@@ -1,0 +1,10 @@
+En tant que prospect (client non authentifié), je souhaite pouvoir visualiser les détails d'une pizza (ingrédients, ...).
+
+Critères :
+
+Lors qu'on accède à la page, pouvoir visualiser toutes les informations d'une pizza qui sont : 
+le nom, l'image, le prix, les ingrédients, la catégorie (viande, sans viande, poisson).
+
+Ajouter un bouton "Retour" permettant de revenir sur la liste de pizzas.
+
+Accéder à la page de détail depuis la liste de pizza (via un lien sur la ligne de la pizza associée).
